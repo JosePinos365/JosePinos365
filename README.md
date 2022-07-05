@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">Microsoft Security Evangelist</h3>
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://c.tenor.com/mKGFM0sF4-oAAAAC/microsoft-st.gif")>
+<img align="center" alt="Coding" width="400" src="https://c.tenor.com/mKGFM0sF4-oAAAAC/microsoft-st.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josepinos365&label=Profile%20views&color=0e75b6&style=flat" alt="josepinos365" /> </p>
 
