@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Microsoft Security**
 
-- 📫 Contact me **jose@secsentinel.com**
+- 📫 Get in touch **jose@secsentinel.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
